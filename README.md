@@ -647,9 +647,3 @@ Sistem ini kurang cocok untuk:
 4. **OBS Integration:** Plugin untuk OBS Studio untuk direct streaming integration.
 
 ---
-
-**Disusun oleh: [Nama Mahasiswa]**  
-**NIM: [Nomor Induk Mahasiswa]**  
-**Program Studi: [Program Studi]**  
-**Universitas: [Nama Universitas]**  
-**Tanggal: 14 Desember 2025**
